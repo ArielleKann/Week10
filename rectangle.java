@@ -1,0 +1,27 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ *
+ * @author aryb1
+ */
+public class rectangle extends Shape1{
+    
+    private int width;
+    private int height;
+    
+    public void setHeight(int h){
+        height=h;
+        
+    }
+    public void setWidth(int width){
+    this.width=width;
+    }
+    
+    public void setBrdrWidth(int b){
+        
+    }
+}
